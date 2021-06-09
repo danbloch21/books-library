@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/danbloch21/books-library/static/css/main.790f9671.chunk.css",
-    "main.js": "/danbloch21/books-library/static/js/main.f4e82f59.chunk.js",
-    "main.js.map": "/danbloch21/books-library/static/js/main.f4e82f59.chunk.js.map",
+    "main.js": "/danbloch21/books-library/static/js/main.8ebac090.chunk.js",
+    "main.js.map": "/danbloch21/books-library/static/js/main.8ebac090.chunk.js.map",
     "runtime-main.js": "/danbloch21/books-library/static/js/runtime-main.47f2712d.js",
     "runtime-main.js.map": "/danbloch21/books-library/static/js/runtime-main.47f2712d.js.map",
     "static/js/2.9d1fc13f.chunk.js": "/danbloch21/books-library/static/js/2.9d1fc13f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.47f2712d.js",
     "static/js/2.9d1fc13f.chunk.js",
     "static/css/main.790f9671.chunk.css",
-    "static/js/main.f4e82f59.chunk.js"
+    "static/js/main.8ebac090.chunk.js"
   ]
 }
